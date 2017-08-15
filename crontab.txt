@@ -1,0 +1,4 @@
+# m h  dom mon dow   command
+0 19 * * * /crontab/cron-mining-start.sh
+0 6 * * * /crontab/cron-mining-stop.sh
+0 7 * * * /crontab/cron-mining-stop.sh
